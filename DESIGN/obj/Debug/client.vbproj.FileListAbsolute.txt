@@ -1,0 +1,102 @@
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe.config
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.exe
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.xml
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.pdb
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe.config
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.exe
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.xml
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.pdb
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.pdb
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.xml
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\client.vbprojResolveAssemblyReference.cache
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.connexion.resources
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Acceuil.resources
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Resources.resources
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Banks_.resources
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Bank_.resources
+F:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\client.vbproj.GenerateResource.Cache
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe.config
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.exe
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.xml
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.pdb
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.pdb
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.xml
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\client.vbprojResolveAssemblyReference.cache
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.connexion.resources
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Acceuil.resources
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Resources.resources
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Banks_.resources
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Bank_.resources
+C:\Users\linda\Desktop\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\client.vbproj.GenerateResource.Cache
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe.config
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.exe
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.xml
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.pdb
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.pdb
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.xml
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\client.vbprojResolveAssemblyReference.cache
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.connexion.resources
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Acceuil.resources
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Resources.resources
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Banks_.resources
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Bank_.resources
+E:\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\client.vbproj.GenerateResource.Cache
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe.config
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.exe
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.xml
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.pdb
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.pdb
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.xml
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\client.vbprojResolveAssemblyReference.cache
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.connexion.resources
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Acceuil.resources
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Resources.resources
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Banks_.resources
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Bank_.resources
+C:\Users\Ramzi\Downloads\Compressed\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\client.vbproj.GenerateResource.Cache
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe.config
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.exe
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.xml
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\PFA2\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.pdb
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe.config
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.exe
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.xml
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.pdb
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.pdb
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.xml
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\client.vbprojResolveAssemblyReference.cache
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.connexion.resources
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Acceuil.resources
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Resources.resources
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Banks_.resources
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Bank_.resources
+C:\Users\Ramzi\Downloads\Compressed\Nouveau dossier (3)\final\PFA2\PFA\PFA\clientapp\clientapp\DESIGN\obj\Debug\client.vbproj.GenerateResource.Cache
+C:\Users\Ramzi\Desktop\pfa\final\PFA2\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe.config
+C:\Users\Ramzi\Desktop\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.exe
+C:\Users\Ramzi\Desktop\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.xml
+C:\Users\Ramzi\Desktop\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.pdb
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe.config
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.exe
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.xml
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.pdb
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.exe
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.pdb
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\bin\Debug\DESIGN.xml
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\client.vbprojResolveAssemblyReference.cache
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.connexion.resources
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Acceuil.resources
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Resources.resources
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Banks_.resources
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\DESIGN.Tunisia_Bank_.resources
+D:\document\pfa\final\PFA2\clientapp\clientapp\DESIGN\obj\Debug\client.vbproj.GenerateResource.Cache
